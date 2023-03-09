@@ -13,7 +13,7 @@
     position: relative;
 
     background-image: url(photo.png);
-    background-size: 38%;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: 92% 100%;
 }
@@ -48,7 +48,7 @@
     align-items: center;
     flex-direction: column;
     padding: 50px 0;
-    background: linear-gradient(#00bcd4, #e91e63, #3f51b5, #00bcd4);
+    background: linear-gradient(#dc0093, #b027ce, #3f51b5, #00bcd4, #0055ff, #dc0093);
     background-size: 100% 500%;
     background-position: 0 40%;
 }
@@ -87,7 +87,7 @@
     margin-bottom: 30px;
 }
 .text-box .icon{
-    background: #e91e63;
+    background: #3d2ec6;
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -119,9 +119,9 @@ body{
 /*button css*/
 .btn{
     font-family: "Roboto", sans-serif;
-    font size: 15px;
+    font size: 16px;
     font-weight: bold;
-    background: #e91e63;
+    background: #3d2ec6;
     width: 160px;
     padding: 20px;
     text-align: center;
