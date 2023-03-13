@@ -141,3 +141,12 @@ body{
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+.top-nav ul li a{
+    font-size: 15px;
+    transition: 200ms;
+}
+
+.top-nav ul li a:hover{
+     color: rgb(169, 167, 167);
+     transition: 200ms;
+}
